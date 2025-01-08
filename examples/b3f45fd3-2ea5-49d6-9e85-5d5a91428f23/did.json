@@ -1,0 +1,12 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://pat.identifier.me/v1.json"
+  ],
+  "id": "did:pat:identifier.me:b3f45fd3-2ea5-49d6-9e85-5d5a91428f23",
+  "service": [{
+    "id":"did:pat:identifier.me:b3f45fd3-2ea5-49d6-9e85-5d5a91428f23#fragments",
+    "type": "KnownFragments",
+    "serviceEndpoint": "https://pat.identifier.me/b3f45fd3-2ea5-49d6-9e85-5d5a91428f23/fragments.json"
+  }]
+}
