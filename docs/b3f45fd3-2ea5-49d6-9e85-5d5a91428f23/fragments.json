@@ -1,0 +1,13 @@
+{
+  "@context": [
+    "https://paf.examples.opsec.id/v1.json"
+  ],
+  "knownFragments": [
+    {
+      "type": "Fragment",
+      "id": "#z6MkiTBz1ymuepAQ4HEHYSF1H8quG5GLVVQR3djdX3mDooWp",
+      "name": "Furniture store sales point 01",
+      "description": "Fragment used for signing purchase receipts."
+    }
+  ]
+}
