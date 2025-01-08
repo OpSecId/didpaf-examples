@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@protected": true,
+    "id": "@id",
+    "type": "@type",
+
+    "KnownFragments": "https://schema.org/DigitalDocument",
+    "knownFragments": "https://paf.spec.opsec.id#knownFragments",
+    "Fragment": {
+      "@id": "https://paf.spec.opsec.id#Fragment",
+      "@context": {
+        "name": "https://schema.org/name",
+        "description": "https://schema.org/description"
+      }
+    }
+  }
+}
