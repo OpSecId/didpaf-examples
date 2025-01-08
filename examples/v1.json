@@ -1,0 +1,12 @@
+{
+  "@context": {
+    "@protected": true,
+    "id": "@id",
+    "type": "@type",
+
+    "KnownFragments": {
+      "@id": "https://schema.org/DigitalDocument",
+      "@type": "@id"
+    }
+  }
+}
